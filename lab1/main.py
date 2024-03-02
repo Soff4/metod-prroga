@@ -6,5 +6,5 @@ def factorial(x):
         return (x * factorial(x-1))
 
 
-num = 3
-print("The factorial of", num, "is", factorial(num))
+num = 6
+print("Факторіал", num, "буде", factorial(num))
